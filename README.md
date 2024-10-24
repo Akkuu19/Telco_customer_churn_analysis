@@ -1,4 +1,4 @@
-# Customer Churn Analysis
+# Telco Customer Churn Analysis
 
 This repository contains a comprehensive analysis of customer churn using Python. The analysis aims to explore patterns in customer behavior and identify factors that contribute to churn.
 
